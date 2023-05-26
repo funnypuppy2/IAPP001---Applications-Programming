@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3a00727-da81-460f-998d-0ee8ebad6c39" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../4/python-usability/template/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../4/python-usability/template/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../4/python-usability/template/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../4/python-usability/template/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../4/python-usability/template/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../4/python-usability/template/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../4/python-usability/template/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../4/python-usability/template/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-crack-server/crackclient.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c-crack-server/crackclient.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-crack-server/crackclient/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-crack-server/crackclient/crackclient.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-crack-server/crackserver.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c-crack-server/crackserver.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-crack-server/crackserver/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-crack-server/crackserver/crackserver.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/anyReceiver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/binSender" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/proxy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/proxy.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/proxy.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/recordFromFormat.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/recordFromFormat.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c-proxy/TCP proxy server/proxy/precode/xmlSender" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eatee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Eatee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hamburger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurant.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVmWt96UWrMcECmcUO0dlYHR5T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/luoheng/Documents/GitHub/parttime-job/2023/5/java-restaurant/eatee"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Eatee">
+    <configuration name="Eatee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eatee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EateeForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EateeForm" />
+      <module name="eatee" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Eatee" />
+        <item itemvalue="Application.EateeForm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a00727-da81-460f-998d-0ee8ebad6c39" name="Changes" comment="" />
+      <created>1683550657885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683550657885</updated>
+    </task>
+    <servers />
+  </component>
+</project>

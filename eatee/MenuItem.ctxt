@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuItem
+comment1.params=menu
+comment1.target=MenuItem(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMenu()
+numComments=3

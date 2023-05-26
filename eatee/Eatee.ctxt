@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Eatee
+comment1.params=
+comment1.target=Eatee()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createUIComponents()
+comment3.params=name\ panel
+comment3.target=void\ updatePanels(MenuItem,\ javax.swing.JPanel)
+comment4.params=
+comment4.target=void\ updateViews()
+comment5.params=panel
+comment5.target=void\ updateOrderDishes(javax.swing.JPanel)
+comment6.params=panel
+comment6.target=void\ updateLeave(javax.swing.JPanel)
+comment7.params=panel
+comment7.target=void\ updateShowOrders(javax.swing.JPanel)
+comment8.params=panel
+comment8.target=void\ updateSummary(javax.swing.JPanel)
+comment9.params=panel
+comment9.target=void\ updateQuit(javax.swing.JPanel)
+numComments=11

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Pizza
+comment0.text=\n\ Pizza\ dish\n\n
+comment1.params=price
+comment1.target=Pizza(double)
+comment1.text=\n\n\ Constructor\ for\ Pizza\n\ \n\ @param\ price\ \ \ \ price\ of\ Pizza\n\ @param\ discount\ discount\ of\ pizza\n
+comment2.params=price\ discount
+comment2.target=Pizza(double,\ double)
+comment2.text=\n\n\ Constructor\ for\ Pizza\n\ \n\ @param\ price\ \ \ \ price\ of\ Pizza\n\ @param\ discount\ discount\ of\ pizza\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\n\ Get\ price\ of\ pizza,\ it\ always\ has\ a\ discount\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
